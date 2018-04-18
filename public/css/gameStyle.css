@@ -1,0 +1,15 @@
+.oSvg {
+	color: #FFA000;
+}
+
+.p2:hover {
+	background-image: url(/img/x.svg);
+}
+
+.p1:hover {
+	background-image: url(/img/o.svg);
+}
+
+.button {
+	margin-left: 10px;
+}
