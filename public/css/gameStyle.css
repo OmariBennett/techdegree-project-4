@@ -3,11 +3,11 @@
 }
 
 .p2:hover {
-	background-image: url(/img/x.svg);
+	background-image: url(../img/x.svg);
 }
 
 .p1:hover {
-	background-image: url(/img/o.svg);
+	background-image: url(../img/o.svg);
 }
 
 .button {
